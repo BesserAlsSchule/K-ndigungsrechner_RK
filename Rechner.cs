@@ -112,13 +112,14 @@ public class Rechner
                 //Jahr
                 try
                 {
-                    year = int.Parse(input.Substring(3));
+                    year = int.Parse(input[3..]);
                     if (!(year >= YearRange.Start.Value && year <= YearRange.End.Value)) throw new Exception();
                 }
                 catch (System.Exception)
                 {
                     throw new Exception("Jahr hat Falsches format");
                 }
+                var DT_test = new DateTime(year, month, 1);
                 valid = true;
             }
             catch (Exception ex)

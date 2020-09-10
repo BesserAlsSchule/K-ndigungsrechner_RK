@@ -11,3 +11,16 @@ C:\Users\Smitty\Desktop\Kündigungsrechner\obj\Debug\netcoreapp3.1\Kündigungsre
 C:\Users\Smitty\Desktop\Kündigungsrechner\obj\Debug\netcoreapp3.1\Kündigungsrechner.dll
 C:\Users\Smitty\Desktop\Kündigungsrechner\obj\Debug\netcoreapp3.1\Kündigungsrechner.pdb
 C:\Users\Smitty\Desktop\Kündigungsrechner\obj\Debug\netcoreapp3.1\Kündigungsrechner.genruntimeconfig.cache
+D:\Projects\repos\Kündigungsrechner_RK\bin\Debug\netcoreapp3.1\Kündigungsrechner.exe
+D:\Projects\repos\Kündigungsrechner_RK\bin\Debug\netcoreapp3.1\Kündigungsrechner.deps.json
+D:\Projects\repos\Kündigungsrechner_RK\bin\Debug\netcoreapp3.1\Kündigungsrechner.runtimeconfig.json
+D:\Projects\repos\Kündigungsrechner_RK\bin\Debug\netcoreapp3.1\Kündigungsrechner.runtimeconfig.dev.json
+D:\Projects\repos\Kündigungsrechner_RK\bin\Debug\netcoreapp3.1\Kündigungsrechner.dll
+D:\Projects\repos\Kündigungsrechner_RK\bin\Debug\netcoreapp3.1\Kündigungsrechner.pdb
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.csprojAssemblyReference.cache
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.AssemblyInfoInputs.cache
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.AssemblyInfo.cs
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.csproj.CoreCompileInputs.cache
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.dll
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.pdb
+D:\Projects\repos\Kündigungsrechner_RK\obj\Debug\netcoreapp3.1\Kündigungsrechner.genruntimeconfig.cache

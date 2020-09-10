@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Smitty\\Desktop\\Kündigungsrechner\\Kündigungsrechner.csproj": {}
+    "D:\\Projects\\repos\\Kündigungsrechner_RK\\Kündigungsrechner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Smitty\\Desktop\\Kündigungsrechner\\Kündigungsrechner.csproj": {
+    "D:\\Projects\\repos\\Kündigungsrechner_RK\\Kündigungsrechner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Smitty\\Desktop\\Kündigungsrechner\\Kündigungsrechner.csproj",
+        "projectUniqueName": "D:\\Projects\\repos\\Kündigungsrechner_RK\\Kündigungsrechner.csproj",
         "projectName": "Kündigungsrechner",
-        "projectPath": "C:\\Users\\Smitty\\Desktop\\Kündigungsrechner\\Kündigungsrechner.csproj",
+        "projectPath": "D:\\Projects\\repos\\Kündigungsrechner_RK\\Kündigungsrechner.csproj",
         "packagesPath": "C:\\Users\\Smitty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Smitty\\Desktop\\Kündigungsrechner\\obj\\",
+        "outputPath": "D:\\Projects\\repos\\Kündigungsrechner_RK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
